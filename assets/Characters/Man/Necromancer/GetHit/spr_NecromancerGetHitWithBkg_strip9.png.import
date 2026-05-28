@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brdby7k4sbuhx"
-path="res://.godot/imported/spr_NecromancerGetHitWithBkg_strip9.png-6343fb229aec4904bc4feeebfdf2b985.ctex"
+path="res://.godot/imported/spr_NecromancerGetHitWithBkg_strip9.png-48df0c6afa2d5f987bd4c2e77805793f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/_PNG/Characters/Man/Necromancer/GetHit/spr_NecromancerGetHitWithBkg_strip9.png"
-dest_files=["res://.godot/imported/spr_NecromancerGetHitWithBkg_strip9.png-6343fb229aec4904bc4feeebfdf2b985.ctex"]
+source_file="res://assets/Characters/Man/Necromancer/GetHit/spr_NecromancerGetHitWithBkg_strip9.png"
+dest_files=["res://.godot/imported/spr_NecromancerGetHitWithBkg_strip9.png-48df0c6afa2d5f987bd4c2e77805793f.ctex"]
 
 [params]
 

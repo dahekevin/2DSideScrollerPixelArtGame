@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmw2xb216dgnk"
-path="res://.godot/imported/spr_NecromancerAttackEffect_strip47.png-4a63eba32386574b5a27d771a3ef236a.ctex"
+path="res://.godot/imported/spr_NecromancerAttackEffect_strip47.png-3729bba877f0426db944e51d0129343a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/_PNG/Characters/Man/Necromancer/Attack/spr_NecromancerAttackEffect_strip47.png"
-dest_files=["res://.godot/imported/spr_NecromancerAttackEffect_strip47.png-4a63eba32386574b5a27d771a3ef236a.ctex"]
+source_file="res://assets/Characters/Man/Necromancer/Attack/spr_NecromancerAttackEffect_strip47.png"
+dest_files=["res://.godot/imported/spr_NecromancerAttackEffect_strip47.png-3729bba877f0426db944e51d0129343a.ctex"]
 
 [params]
 

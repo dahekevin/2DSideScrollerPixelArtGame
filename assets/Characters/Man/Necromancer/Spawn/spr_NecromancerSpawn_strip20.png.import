@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://u4n5bkvhvy1h"
-path="res://.godot/imported/spr_NecromancerSpawn_strip20.png-e78782f7dd5a113c7f2fb6ae325fddbe.ctex"
+path="res://.godot/imported/spr_NecromancerSpawn_strip20.png-5ea1ac0b362a61e8e4211db12bf17511.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/_PNG/Characters/Man/Necromancer/Spawn/spr_NecromancerSpawn_strip20.png"
-dest_files=["res://.godot/imported/spr_NecromancerSpawn_strip20.png-e78782f7dd5a113c7f2fb6ae325fddbe.ctex"]
+source_file="res://assets/Characters/Man/Necromancer/Spawn/spr_NecromancerSpawn_strip20.png"
+dest_files=["res://.godot/imported/spr_NecromancerSpawn_strip20.png-5ea1ac0b362a61e8e4211db12bf17511.ctex"]
 
 [params]
 

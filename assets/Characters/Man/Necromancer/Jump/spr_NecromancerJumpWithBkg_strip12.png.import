@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doxvnmefxyeuq"
-path="res://.godot/imported/spr_NecromancerJumpWithBkg_strip12.png-aa914754d0edee19c7de14da29a97747.ctex"
+path="res://.godot/imported/spr_NecromancerJumpWithBkg_strip12.png-3b2ac84b1b79b79ac1afba07bedf7105.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/_PNG/Characters/Man/Necromancer/Jump/spr_NecromancerJumpWithBkg_strip12.png"
-dest_files=["res://.godot/imported/spr_NecromancerJumpWithBkg_strip12.png-aa914754d0edee19c7de14da29a97747.ctex"]
+source_file="res://assets/Characters/Man/Necromancer/Jump/spr_NecromancerJumpWithBkg_strip12.png"
+dest_files=["res://.godot/imported/spr_NecromancerJumpWithBkg_strip12.png-3b2ac84b1b79b79ac1afba07bedf7105.ctex"]
 
 [params]
 
